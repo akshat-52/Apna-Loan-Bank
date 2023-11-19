@@ -1,4 +1,4 @@
-# Access Bank
+# Apna Loan Bank
 
 A Login Bank Application built with JavaScript
 
